@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelex&theme=tokyonight)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelex)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miguelex)](https://github.com/anuraghazra/github-readme-stats)
