@@ -97,6 +97,12 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Kotlin       1 hr 49 mins    ████████████████████████▒   97.60 %
+Properties   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Now listen
