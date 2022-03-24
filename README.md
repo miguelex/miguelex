@@ -93,7 +93,7 @@
   </tr>
 </table>
 
-[![Miguelex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miguelex&theme=tokyonight)](https://github.com/miguelex/github-readme-stats)
+[![Miguelex's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miguelex&theme=tokyonight)](https://github.com/miguelex)
 
 <!--START_SECTION:waka-->
 
