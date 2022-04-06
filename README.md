@@ -1,6 +1,6 @@
 <h2> Hi, I´m Miguel Ángel Delgado 💻 👋 </h2>
 
-<p><em>Software Enginner at <a href="http://www.uhu.es">University of Huelva</a></br>Software Developer at <a href="https://www.ubrisecurity.com">Ubrisecurity</a>
+<p><em>Software Enginner at <a href="http://www.uhu.es">University of Huelva</a></br>Software Developer at <a href="https://www.linkedin.com/company/d-y-d-desarrollo-y-digitalizacion-sectorial-sl/">Desarrollo y Digitalización Sectorial SL</a>
 </em></p>
 
 [![Linkedin: Miguel](https://img.shields.io/badge/-Miguel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelangeldelgadomarquez/)](https://www.linkedin.com/in/miguelangeldelgadomarquez/)
