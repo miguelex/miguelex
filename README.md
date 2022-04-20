@@ -102,6 +102,8 @@ Other        12 hrs 5 mins   █████████████▒░░░
 
 <!--END_SECTION:waka-->
 
+![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/3582?logoColor=white%26project=%26recentMS=0%26showProject=true)
+
 ### Now listen
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=madm75&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
