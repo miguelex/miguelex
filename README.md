@@ -102,7 +102,7 @@ Other        12 hrs 5 mins   █████████████▒░░░
 
 <!--END_SECTION:waka-->
 
-![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/3582?logoColor=dark%26project=%26recentMS=0%26showProject=true)
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/3582?logoColor=dark%26project=%26recentMS=0%26showProject=true) 
 
 ### Now listen
 
