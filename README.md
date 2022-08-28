@@ -97,9 +97,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP      3 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.65 %
-Kotlin   2 hrs 43 mins   ██████████░░░░░░░░░░░░░░░   40.59 %
-CSS      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Kotlin   2 hrs 43 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
