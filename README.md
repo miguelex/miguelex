@@ -88,7 +88,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelex&langs_count=10&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/miguelex/miguelex&count_private=true/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats-bq909l5rt-miguelex.vercel.app/api/top-langs/?username=miguelex&langs_count=10&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/miguelex/miguelex&count_private=true/github-readme-stats"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelex&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false" /></td>
   </tr>
 </table>
