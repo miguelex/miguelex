@@ -11,7 +11,7 @@
 ## A little more about me...  
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning: Javascript, MongoDB, Power BI
+- 🌱 I’m currently learning: Javascript and Swift
 - 📫 How to reach me: https://miguelandelgado.com
 - ⚡ Fun fact: In 2019 the Spanish Patent and Trademark Office published a patent of which I am co-owner.
 
