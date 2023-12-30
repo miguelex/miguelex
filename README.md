@@ -97,11 +97,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       2 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.37 %
-TypeScript       1 hr 8 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
-PHP              1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Markdown         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+JavaScript       2 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   32.59 %
+Markdown         1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+TypeScript       1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+PHP              50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Kotlin           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
