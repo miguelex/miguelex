@@ -26,11 +26,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelex&theme=tokyonight" alt="miguelex" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats-bq909l5rt-miguelex.vercel.app/api/top-langs?username=miguelex&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&locale=es&layout=compact" alt="miguelex" /></p>
+<p><img align="left" src="https://github-readme-stats-bq909l5rt-miguelex.vercel.app/api/top-langs?username=miguelex&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&locale=en&layout=compact" alt="miguelex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-bq909l5rt-miguelex.vercel.app/api?username=miguelex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false&locale=es" alt="miguelex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-bq909l5rt-miguelex.vercel.app/api?username=miguelex&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_stars=false&locale=en" alt="miguelex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelex&theme=tokyonight&locale=es" alt="miguelex" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelex&theme=tokyonight&locale=en" alt="miguelex" /></p>
 
 ### Week Stats
 
