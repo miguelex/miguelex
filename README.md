@@ -37,8 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP        3 hrs 28 mins   ███████████████████████▓░   94.27 %
-Markdown   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+PHP          6 hrs 12 mins   ███████████████████████▓░   95.13 %
+Markdown     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
