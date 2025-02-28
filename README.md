@@ -37,8 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SCSS   45 mins         ████████████▓░░░░░░░░░░░░   50.82 %
-PHP    44 mins         ████████████▒░░░░░░░░░░░░   49.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
