@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Desarrollo y Digitalización Sectorial SL](https://www.linkedin.com/company/d-y-d-desarrollo-y-digitalizacion-sectorial-sl/)
 
-- 🌱 I’m currently learning **Dart, JavaScript & NodeJS**
+- 🌱 I’m currently learning **Dart**
 
 - 👨‍💻 All of my projects are available at [https://miguelandelgado.com](https://miguelandelgado.com)
 
